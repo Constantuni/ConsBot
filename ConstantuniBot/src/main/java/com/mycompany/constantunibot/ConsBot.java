@@ -12,7 +12,7 @@ public class ConsBot extends TelegramLongPollingBot {
     
     @Override
     public String getBotToken() {
-        return "5601877296:AAGGAN4fJWxNCiTtSRhvtcs2Vj-3bg-3O8M"; //token
+        return "TOKEN WAS HERE"; //token
     }
 
     @Override
